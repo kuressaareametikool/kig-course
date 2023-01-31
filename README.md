@@ -60,6 +60,8 @@ https://digiriik.eesti.ee/
 
 ### UX research
 
+📚 https://abookapart.com/products/just-enough-research
+
 - Reports (?)
 - Personas
 - Journey maps
@@ -241,3 +243,8 @@ Adjust to changes
 ### Data science and AI
 
 ### Devops
+
+
+# Bla
+
+https://rosenfeldmedia.com/books/
