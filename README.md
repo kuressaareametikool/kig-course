@@ -41,7 +41,7 @@ http://library.lol/main/8A87A2320385B9DFE46CA401E840C143
 
 ### Branding
 
-CVI etc
+📚 "Designing Brand Identity: An Essential Guide for the Whole Branding Team" by Alina Wheeler
 
 ## UX
 
@@ -50,11 +50,11 @@ CVI etc
 📺 IDEO: Shopping Cart Design Process
 https://www.youtube.com/watch?v=izjhx17NuSE
 
-📚 The User Experience Team of One
-http://library.lol/main/8D84BCDAC414A16161C175BCF664A0EB
-
 📚 Design Thinking - The Handbook
 http://library.lol/main/C0228C4313B1E8ADB9CDE191FDB23D6C
+
+📚 The User Experience Team of One
+http://library.lol/main/8D84BCDAC414A16161C175BCF664A0EB
 
 https://digiriik.eesti.ee/
 
@@ -76,6 +76,8 @@ https://digiriik.eesti.ee/
 NB! Dark patterns
 
 ## UI
+
+**Refactoring UI**
 
 same as building blocks
 
@@ -113,7 +115,9 @@ and
 - Webflow
 - Google Sites
 
-### HTML/CSS + SVG
+### HTML/CSS
+
+#### SVG
 
 Chris Coyer - Practical SVG
 http://library.lol/main/AE8F09C91D5E4F01CE23AE5BC879925F
