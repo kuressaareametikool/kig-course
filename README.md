@@ -87,6 +87,8 @@ http://library.lol/main/8D84BCDAC414A16161C175BCF664A0EB
 Same design building blocks as in basics but in UI context
 
 - Typography
+  Typography: Practical Considerations and Design Patterns 
+  http://library.lol/main/91441AF7983ADECB185CB82F72A07D33
 - Color
 - Composition / Layout / Spacing 
   ➡️ https://uxplanet.org/the-power-of-whitespace-a1a95e45f82b
