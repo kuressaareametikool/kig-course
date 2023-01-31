@@ -108,6 +108,8 @@ and
 - Responsive design
 - Text / Translations / Tone of voice
 - Accessibility
+  Accessibility for Everyone
+  📚 http://library.lol/main/0396BD318253ED659989FF0A9B61342C
 - Inclusivity
 
 ## Frontend
