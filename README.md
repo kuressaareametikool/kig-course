@@ -142,6 +142,10 @@ Based on PHP. See also: Laravel (out of scope)
   -- Vue + Nuxt
   -- Svelte + Sveltekit
 
+# Design systems
+
+📚 http://library.lol/main/99AF800C71FCE99C16BDBC682EE76B08
+
 ## Other
 
 ### Exercises
