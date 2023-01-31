@@ -41,7 +41,7 @@ http://library.lol/main/8A87A2320385B9DFE46CA401E840C143
 
 ### Branding
 
-📚 "Designing Brand Identity: An Essential Guide for the Whole Branding Team" by Alina Wheeler
+📚 "Designing Brand Identity: An Essential Guide for the Whole Branding Team" by Alina Wheeler http://library.lol/main/2E94F5A44E23BCC0BF22B1D8BF4BD9C6
 
 ## UX
 
@@ -56,7 +56,7 @@ http://library.lol/main/C0228C4313B1E8ADB9CDE191FDB23D6C
 📚 The User Experience Team of One
 http://library.lol/main/8D84BCDAC414A16161C175BCF664A0EB
 
-https://digiriik.eesti.ee/
+➡️ https://digiriik.eesti.ee/
 
 ### UX research
 
