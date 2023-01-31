@@ -1,6 +1,8 @@
 # KIG course outline
 
-# https://github.com/kuressaareametikool/kig-course
+![](board.jpg)
+
+![](board2.jpg)
 
 ## Background / Basics
 
