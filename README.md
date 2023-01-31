@@ -1,5 +1,7 @@
 # KIG course outline
 
+# https://github.com/kuressaareametikool/kig-course
+
 ## Background / Basics
 
 ### Seeing design
