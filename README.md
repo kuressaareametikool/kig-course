@@ -114,6 +114,8 @@ and
   Accessibility for Everyone
   📚 http://library.lol/main/0396BD318253ED659989FF0A9B61342C
 - Inclusivity
+  ➡️ https://www.sandrabydesign.com/blog/the-inclusive-design-reading-list
+  📚 Kat Holmes's Mismatch: How Inclusion Shapes Design http://library.lol/main/200DF00048BB8A35F909E23415E9C788
 
 ## Frontend
 
