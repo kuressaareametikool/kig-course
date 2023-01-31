@@ -13,11 +13,6 @@ http://library.lol/main/4BB8D08A9B309DF7D86E62EC4056CEEF
 
 ## Design psychology
 
-Dealing with behaviour and motivation
-
-- Biases
-- 100 things user should know about
-
 📚 100 Things Every Designer Needs to Know About People (2ed) http://library.lol/main/057C15923B21C4391CD5E0546C58B13F
 
 📚 Bonus: 100 MORE Things Every Designer Needs to Know About People
@@ -60,7 +55,7 @@ http://library.lol/main/8D84BCDAC414A16161C175BCF664A0EB
 
 ## UX research
 
-📚 https://abookapart.com/products/just-enough-research
+📚 Just Enough Research http://library.lol/main/F6D2E2B0E4EE634CA8179639B544107E
 
 - Reports (?)
 - Personas
@@ -69,19 +64,24 @@ http://library.lol/main/8D84BCDAC414A16161C175BCF664A0EB
 
 ## Information architecture
 
+📚 Everyday Information Architecure http://library.lol/main/BF926AA9F7A8106BCEF73CA1BE049EF7
+
 ## User flows
 
 ## Lo-fi prototyping
 
 ## Other
 
-NB! Dark patterns
+## Dark patterns
+
+📚 Evil by design: interaction design to lead us into temptation
+ http://library.lol/main/95CC6CF39C8BCEFCFEA160FEBD9F572C
 
 # UI
 
 📚 Refactoring UI
 
-same as building blocks
+Same design building blocks as in basics but in UI context
 
 - Typography
 - Color
