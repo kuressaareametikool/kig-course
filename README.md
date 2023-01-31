@@ -56,6 +56,8 @@ http://library.lol/main/8D84BCDAC414A16161C175BCF664A0EB
 📚 Design Thinking - The Handbook
 http://library.lol/main/C0228C4313B1E8ADB9CDE191FDB23D6C
 
+https://digiriik.eesti.ee/
+
 ### UX research
 
 - Reports (?)
