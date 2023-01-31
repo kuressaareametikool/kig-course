@@ -88,7 +88,8 @@ Same design building blocks as in basics but in UI context
 
 - Typography
 - Color
-- Composition / Layout / Spacing
+- Composition / Layout / Spacing 
+  ➡️ https://uxplanet.org/the-power-of-whitespace-a1a95e45f82b
 - Shape
 - Depth
 - Icons
