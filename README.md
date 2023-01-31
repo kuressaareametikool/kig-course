@@ -4,14 +4,14 @@
 
 ![](board2.jpg)
 
-## Background / Basics
+# Background / Basics
 
-### Seeing design
+## Seeing design
 
 📚 Classic. Don Norman. The Design of Everyday Things
 http://library.lol/main/4BB8D08A9B309DF7D86E62EC4056CEEF
 
-### Design psychology
+## Design psychology
 
 Dealing with behaviour and motivation
 
@@ -23,13 +23,13 @@ Dealing with behaviour and motivation
 📚 Bonus: 100 MORE Things Every Designer Needs to Know About People
 http://library.lol/main/8A87A2320385B9DFE46CA401E840C143
 
-### Liberal arts
+## Liberal arts
 
 - Drawing
 - Painting
 - Art history
 
-### Design building blocks
+## Design building blocks
 
 - Typography
 - Color
@@ -39,11 +39,11 @@ http://library.lol/main/8A87A2320385B9DFE46CA401E840C143
 - Video
 - Motion
 
-### Branding
+## Branding
 
 📚 "Designing Brand Identity: An Essential Guide for the Whole Branding Team" by Alina Wheeler http://library.lol/main/2E94F5A44E23BCC0BF22B1D8BF4BD9C6
 
-## UX
+# UX
 
 ## Overview
 
@@ -58,7 +58,7 @@ http://library.lol/main/8D84BCDAC414A16161C175BCF664A0EB
 
 ➡️ https://digiriik.eesti.ee/
 
-### UX research
+## UX research
 
 📚 https://abookapart.com/products/just-enough-research
 
@@ -67,19 +67,19 @@ http://library.lol/main/8D84BCDAC414A16161C175BCF664A0EB
 - Journey maps
 - ...
 
-### Information architecture
+## Information architecture
 
-### User flows
+## User flows
 
-### Lo-fi prototyping
+## Lo-fi prototyping
 
-### Other
+## Other
 
 NB! Dark patterns
 
-## UI
+# UI
 
-**Refactoring UI**
+📚 Refactoring UI
 
 same as building blocks
 
