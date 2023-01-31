@@ -70,12 +70,15 @@ http://library.lol/main/8D84BCDAC414A16161C175BCF664A0EB
 
 ## Lo-fi prototyping
 
-## Other
+## Patterns
 
-## Dark patterns
+### Dark patterns
 
 📚 Evil by design: interaction design to lead us into temptation
  http://library.lol/main/95CC6CF39C8BCEFCFEA160FEBD9F572C
+
+📚 Tragic Design: The Impact of Bad Product Design and How to Fix It
+ http://library.lol/main/652AEA035033E1D60ACFBCB4CC103146
 
 # UI
 
