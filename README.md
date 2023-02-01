@@ -48,12 +48,6 @@ http://library.lol/main/8A87A2320385B9DFE46CA401E840C143
 
 📚 Color Design Workbook: A Real World Guide To Using Color In Graphic Design http://library.lol/main/2E73395257B6187B5ED280145DC48BE2
 
-🤓 https://programmingdesignsystems.com/color/a-short-history-of-color-theory/index.html#a-short-history-of-color-theory-xZzRFOZ
-
-🤓 https://programmingdesignsystems.com/color/color-models-and-color-spaces/index.html
-
-🤓 https://programmingdesignsystems.com/color/color-schemes/index.html
-
 ### Typography
 
 ### Composition / Layout / Spacing
@@ -127,9 +121,13 @@ http://library.lol/main/652AEA035033E1D60ACFBCB4CC103146
 
 ### Color
 
+🧔🏻 https://edesign-erasmus.github.io/en/design/usability/color.html#color-and-accessibility
+
 ### Typography
 
 📚 Typography: Practical Considerations and Design Patterns http://library.lol/main/91441AF7983ADECB185CB82F72A07D33
+
+🧔🏻 https://edesign-erasmus.github.io/en/design/usability/typography.html
 
 ### Composition / Layout / Spacing
 
@@ -141,6 +139,10 @@ http://library.lol/main/652AEA035033E1D60ACFBCB4CC103146
 
 ### Icons
 
+### Illustrations
+
+🧔🏻 https://edesign-erasmus.github.io/en/graphics/illustration/web-illustration.html#backgrounds-and-patterns
+
 ### Image
 
 ### Video
@@ -149,11 +151,20 @@ http://library.lol/main/652AEA035033E1D60ACFBCB4CC103146
 
 ### Text / Translations / Tone of voice
 
+📚💰 https://rosenfeldmedia.com/books/writing-is-designing/
+
+➡️ https://www.torchi.org/resources/Documents/2020-Oct-15%20-%20Andy%20Welfle%20and%20Michael%20Metts%20-%20Writing%20is%20designing.pdf
+
 ### Responsive design
 
 ### Interactions
 
 ### Microinteractions
+
+📚 Microinteractions: Designing with Details
+http://library.lol/main/E436AE9F281001CAC2DB71F36332C54E
+
+➡️ https://www.nngroup.com/articles/microinteractions/
 
 ### Accessibility
 
@@ -186,12 +197,18 @@ http://library.lol/main/C56C86E9785E894F3265C7F99ABB3275
 
 ### HTML + CSS
 
+<mark>Help to pick a better one</mark>
+
 📚 Learn Enough HTML, CSS and Layout to be Dangerous: An Introduction to Modern Website Creation and Templating Systems http://library.lol/main/2AB20365306A7020AC56BF2A620BE19B
+
+📚 Responsive Web Design with HTML5 and CSS: Build future-proof responsive websites using the latest HTML5 and CSS techniques http://library.lol/main/18AD36059788E2C0DB37D279A5F125E1
 
 ### SVG
 
 📚 Chris Coyer - Practical SVG
 http://library.lol/main/AE8F09C91D5E4F01CE23AE5BC879925F
+
+👩‍🏫 https://css-tricks.com/lodge/svg
 
 ## Wordpress
 
@@ -220,6 +237,8 @@ http://library.lol/main/AE8F09C91D5E4F01CE23AE5BC879925F
 📚 Data Visualization Made Simple: Insights Into Becoming Visual http://library.lol/main/82EC8F07F7AB9F884C9FBE2CF6E5F022
 
 📚 Information is Beatutiful (David McCandless) http://library.lol/main/24E5A414AA3DC394EF188A1ACBDA7647
+
+🧔🏻 https://edesign-erasmus.github.io/en/graphics/infographics/working-with-data.html
 
 # Other
 
