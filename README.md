@@ -4,6 +4,12 @@
 
 ![](board2.jpg)
 
+# Prior work
+
+🧔🏻 https://designstem.github.io/projects/links
+
+🧔🏻 https://edesign-erasmus.github.io/en/design
+
 # Background / Basics
 
 ## Seeing design
@@ -18,6 +24,10 @@ http://library.lol/main/4BB8D08A9B309DF7D86E62EC4056CEEF
 📚 Bonus: 100 MORE Things Every Designer Needs to Know About People
 http://library.lol/main/8A87A2320385B9DFE46CA401E840C143
 
+➡️ https://growth.design/psychology
+
+➡️ https://lawsofux.com/
+
 ## Liberal arts
 
 - Drawing
@@ -26,17 +36,39 @@ http://library.lol/main/8A87A2320385B9DFE46CA401E840C143
 
 ## Design building blocks
 
-- Typography
-- Color
-- Composition / Layout / Spacing
-- Vector graphics / Iconography
-- Image
-- Video
-- Motion
+### Overview
+
+<mark>Help to pick a better one</mark>
+
+📚 Design Elements, Third Edition: Understanding the rules and knowing when to break them - A Visual Communication Manual http://library.lol/main/DA2E143A6FAB3E436B2493247FE2210E
+
+📚 The Language of Graphic Design Revised and Updated: An Illustrated Handbook for Understanding Fundamental Design Principles http://library.lol/main/E8988F9335327BE385E4FB9E00BF6354
+
+### Color
+
+📚 Color Design Workbook: A Real World Guide To Using Color In Graphic Design http://library.lol/main/2E73395257B6187B5ED280145DC48BE2
+
+🤓 https://programmingdesignsystems.com/color/a-short-history-of-color-theory/index.html#a-short-history-of-color-theory-xZzRFOZ
+
+🤓 https://programmingdesignsystems.com/color/color-models-and-color-spaces/index.html
+
+🤓 https://programmingdesignsystems.com/color/color-schemes/index.html
+
+### Typography
+
+### Composition / Layout / Spacing
+
+### Vector graphics / Iconography
+
+### Image
+
+### Video
+
+### Motion
 
 ## Branding
 
-📚 "Designing Brand Identity: An Essential Guide for the Whole Branding Team" by Alina Wheeler http://library.lol/main/2E94F5A44E23BCC0BF22B1D8BF4BD9C6
+📚 Designing Brand Identity: An Essential Guide for the Whole Branding Team http://library.lol/main/2E94F5A44E23BCC0BF22B1D8BF4BD9C6
 
 # UX
 
@@ -53,6 +85,8 @@ http://library.lol/main/8D84BCDAC414A16161C175BCF664A0EB
 
 ➡️ https://digiriik.eesti.ee/
 
+👩‍🏫 https://www.learnui.design/courses/learn-ux-design.html
+
 ## UX research
 
 📚 Just Enough Research http://library.lol/main/F6D2E2B0E4EE634CA8179639B544107E
@@ -60,7 +94,6 @@ http://library.lol/main/8D84BCDAC414A16161C175BCF664A0EB
 - Reports (?)
 - Personas
 - Journey maps
-- ...
 
 ## Information architecture
 
@@ -74,52 +107,74 @@ http://library.lol/main/8D84BCDAC414A16161C175BCF664A0EB
 
 ### Dark patterns
 
+<mark>Help to pick a better one</mark>
+
 📚 Evil by design: interaction design to lead us into temptation
- http://library.lol/main/95CC6CF39C8BCEFCFEA160FEBD9F572C
+http://library.lol/main/95CC6CF39C8BCEFCFEA160FEBD9F572C
 
 📚 Tragic Design: The Impact of Bad Product Design and How to Fix It
- http://library.lol/main/652AEA035033E1D60ACFBCB4CC103146
+http://library.lol/main/652AEA035033E1D60ACFBCB4CC103146
 
 # UI
 
-📚 Refactoring UI
+## Introduction
 
-Same design building blocks as in basics but in UI context
+📚 **Refactoring UI**
 
-- Typography
-  Typography: Practical Considerations and Design Patterns 
-  http://library.lol/main/91441AF7983ADECB185CB82F72A07D33
-- Color
-- Composition / Layout / Spacing 
-  ➡️ https://uxplanet.org/the-power-of-whitespace-a1a95e45f82b
-- Shape
-- Depth
-- Icons
+👩‍🏫 https://www.learnui.design/index.html
 
-and
+## Design building blocks in UI
 
-- Image
-- Video
-- Motion
+### Color
 
-and
+### Typography
 
-- Interactions + Microinteractions
+📚 Typography: Practical Considerations and Design Patterns http://library.lol/main/91441AF7983ADECB185CB82F72A07D33
 
-and
+### Composition / Layout / Spacing
 
-- Responsive design
-- Text / Translations / Tone of voice
-- Accessibility
-  Accessibility for Everyone
-  📚 http://library.lol/main/0396BD318253ED659989FF0A9B61342C
-- Inclusivity
-  ➡️ https://www.sandrabydesign.com/blog/the-inclusive-design-reading-list
-  📚 Kat Holmes's Mismatch: How Inclusion Shapes Design http://library.lol/main/200DF00048BB8A35F909E23415E9C788
+➡️ https://uxplanet.org/the-power-of-whitespace-a1a95e45f82b
 
-## Frontend
+### Shape
 
-### No-code / lo-code
+### Depth
+
+### Icons
+
+### Image
+
+### Video
+
+### Motion
+
+### Text / Translations / Tone of voice
+
+### Responsive design
+
+### Interactions
+
+### Microinteractions
+
+### Accessibility
+
+<mark>Help to pick a better one</mark>
+
+📚 A Web for Everyone
+http://library.lol/main/C56C86E9785E894F3265C7F99ABB3275
+
+📚 Accessibility for Everyone http://library.lol/main/0396BD318253ED659989FF0A9B61342C
+
+### Inclusivity and ethics
+
+📚 Mismatch: How Inclusion Shapes Design http://library.lol/main/200DF00048BB8A35F909E23415E9C788
+
+➡️ https://www.sandrabydesign.com/blog/the-inclusive-design-reading-list
+
+➡️ https://humanebydesign.com
+
+# Frontend
+
+## No-code / lo-code
 
 - Wix
 - Voog
@@ -127,22 +182,24 @@ and
 - Webflow
 - Google Sites
 
-### HTML/CSS
+## Web tech
 
-#### SVG
+### HTML + CSS
 
-Chris Coyer - Practical SVG
+📚 Learn Enough HTML, CSS and Layout to be Dangerous: An Introduction to Modern Website Creation and Templating Systems http://library.lol/main/2AB20365306A7020AC56BF2A620BE19B
+
+### SVG
+
+📚 Chris Coyer - Practical SVG
 http://library.lol/main/AE8F09C91D5E4F01CE23AE5BC879925F
 
-### Wordpress
+## Wordpress
 
 - Admin
 - Defaults
 - Plugins (Elelentor)
 - Themes
 - DIY
-
-Based on PHP. See also: Laravel (out of scope)
 
 ### Javascript
 
@@ -152,37 +209,41 @@ Based on PHP. See also: Laravel (out of scope)
   -- Vue + Nuxt
   -- Svelte + Sveltekit
 
-# Design systems
+## Design systems
 
-📚 http://library.lol/main/99AF800C71FCE99C16BDBC682EE76B08
+➡️ https://designstrategy.guide/design-management/the-ultimate-design-systems-resources-list/
 
-## Other
+## Data visualization
 
-### Exercises
+📚 Dear data http://library.lol/main/E559A76BD940A881BC688D927B78E440
 
-- Observation
-- Reverse engineer / desconstruct
-- Copy work
-- Reflection
+📚 Data Visualization Made Simple: Insights Into Becoming Visual http://library.lol/main/82EC8F07F7AB9F884C9FBE2CF6E5F022
 
-### Work with data
+📚 Information is Beatutiful (David McCandless) http://library.lol/main/24E5A414AA3DC394EF188A1ACBDA7647
 
-- Data visualization
-- Data-driven UIs
+# Other
 
-### 3D
+## 3D
 
-Spline
+➡️ Spline https://spline.design/
 
-### Emerging tech / other devices
+## Emerging tech / other devices
 
-- AI
-- Wearables
-- Large screens / kiosks
-- Spatial installations / exibithions
-- VR / AR / Metaverse
-- Web3 / NFT
-- Voice UIs
+### AI
+
+### Wearables
+
+### Large screens / kiosks
+
+➡️ https://construkt.eu/accessible-kiosk-design/
+
+### Spatial installations / exhibitions
+
+### Voice UIs
+
+### VR / AR / Metaverse
+
+### Web3 / NFT
 
 ## Prep for work / Presentations
 
@@ -194,13 +255,16 @@ Spline
 
 ### Communication
 
-- Listening
-  - Why/how laddering https://field.so/en/blog/why-how-laddering-how-the-product-field-tells-you-when-to-use-it
-- Communication hygene
-  - Not interruptions
-  - Being on control of your own biases
-  - Practive active listening
-  - Control your body language
+### Why/how laddering
+
+➡️ https://field.so/en/blog/why-how-laddering-how-the-product-field-tells-you-when-to-use-it
+
+#### Communication hygene
+
+- Not interruptions
+- Being on control of your own biases
+- Practive active listening
+- Control your body language
 
 ### Receiving critique
 
@@ -245,20 +309,26 @@ Adjust to changes
 - Realtime (events, coffee)
 - Async (chats, podcasts)
 
-## Out of scope
+## Exercises
 
-### App UIs
+- Observation
+- Reverse engineer / desconstruct
+- Copy work
+- Reflection
 
+# Out of scope
+
+- PHP + Laravel
 - iOS: Swift + Swift UI
 - Android: Java + Kotlin
+- Backends
+- Data science and AI
+- Devops
 
-### Backends
+# Addendum
 
-### Data science and AI
+Book publishers:
 
-### Devops
-
-
-# Bla
-
-https://rosenfeldmedia.com/books/
+- Rockport
+- A Book Apart
+- Rosenfeld Media
