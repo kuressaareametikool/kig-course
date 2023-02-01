@@ -34,7 +34,7 @@ http://library.lol/main/8A87A2320385B9DFE46CA401E840C143
 - Painting
 - Art history
 
-## Design building blocks
+## Graphic design building blocks
 
 ### Overview
 
@@ -50,7 +50,9 @@ http://library.lol/main/8A87A2320385B9DFE46CA401E840C143
 
 ### Typography
 
-### Composition / Layout / Spacing
+### Composition / Layout / Spacing / Grid
+
+📚 Making and breaking the grid : a graphic design layout workshop http://library.lol/main/65E265AC95410C004C0A8E8F3E93F96F
 
 ### Vector graphics / Iconography
 
@@ -80,6 +82,10 @@ http://library.lol/main/8D84BCDAC414A16161C175BCF664A0EB
 ➡️ https://digiriik.eesti.ee/
 
 👩‍🏫 https://www.learnui.design/courses/learn-ux-design.html
+
+## Service design
+
+📚 Service Design http://library.lol/main/DBC404E0E59FEF3F0FE035A830BE5E42
 
 ## UX research
 
@@ -139,6 +145,7 @@ http://library.lol/main/652AEA035033E1D60ACFBCB4CC103146
 
 ### Icons
 
+📚 The Icon Handbook http://library.lol/main/A059E34FCF12697F650EE09D5FE63CA4
 ➡️ https://www.designsystems.com/iconography-guide/
 
 ### Illustrations
@@ -246,8 +253,6 @@ http://library.lol/main/45DBC46659C6DB3950B2EF55C50F868C
 
 🧑🏻‍🦲 https://github.com/kristjanjansen/dataviz
 
-# Other
-
 ## 3D
 
 ➡️ Spline https://spline.design/
@@ -256,6 +261,8 @@ http://library.lol/main/45DBC46659C6DB3950B2EF55C50F868C
 
 ### AI
 
+📚 Big Data, Big Design: Why Designers Should Care about Artificial Intelligence http://library.lol/main/5A3AF81D4E51F89082B74D71C5DC434D
+
 ### Wearables
 
 ### Large screens / kiosks
@@ -263,6 +270,8 @@ http://library.lol/main/45DBC46659C6DB3950B2EF55C50F868C
 ➡️ https://construkt.eu/accessible-kiosk-design/
 
 ### Spatial installations / exhibitions
+
+📚 **IRIS ;)** Interactive architecture adaptive world http://library.lol/main/45E49DB93E41E9C317FFD4D9CEFF5443
 
 ### Voice UIs
 
