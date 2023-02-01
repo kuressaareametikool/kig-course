@@ -38,7 +38,7 @@ http://library.lol/main/8A87A2320385B9DFE46CA401E840C143
 
 ### Overview
 
-<mark>Help to pick a better one</mark>
+<kbd>Help to pick a better one</kbd>
 
 📚 Design Elements, Third Edition: Understanding the rules and knowing when to break them - A Visual Communication Manual http://library.lol/main/DA2E143A6FAB3E436B2493247FE2210E
 
@@ -101,7 +101,7 @@ http://library.lol/main/8D84BCDAC414A16161C175BCF664A0EB
 
 ### Dark patterns
 
-<mark>Help to pick a better one</mark>
+<kbd>Help to pick a better one</kbd>
 
 📚 Evil by design: interaction design to lead us into temptation
 http://library.lol/main/95CC6CF39C8BCEFCFEA160FEBD9F572C
@@ -168,7 +168,7 @@ http://library.lol/main/E436AE9F281001CAC2DB71F36332C54E
 
 ### Accessibility
 
-<mark>Help to pick a better one</mark>
+<kbd>Help to pick a better one</kbd>
 
 📚 A Web for Everyone
 http://library.lol/main/C56C86E9785E894F3265C7F99ABB3275
@@ -197,7 +197,7 @@ http://library.lol/main/C56C86E9785E894F3265C7F99ABB3275
 
 ### HTML + CSS
 
-<mark>Help to pick a better one</mark>
+<kbd>Help to pick a better one</kbd>
 
 📚 Learn Enough HTML, CSS and Layout to be Dangerous: An Introduction to Modern Website Creation and Templating Systems http://library.lol/main/2AB20365306A7020AC56BF2A620BE19B
 
