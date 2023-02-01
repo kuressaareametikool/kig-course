@@ -298,8 +298,6 @@ http://library.lol/main/45DBC46659C6DB3950B2EF55C50F868C
 
 ### Receiving critique
 
-...
-
 ### Self-awareness
 
 Reflecting, questions, understaing how your mind works and biases
@@ -362,3 +360,15 @@ Book publishers:
 - Rockport
 - A Book Apart
 - Rosenfeld Media
+
+EKA design sprint materials:
+
+![](eka1.jpeg)
+
+![](eka2.jpeg)
+
+![](eka3.jpeg)
+
+![](eka4.jpeg)
+
+![](eka4.jpeg)
