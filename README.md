@@ -133,11 +133,13 @@ http://library.lol/main/652AEA035033E1D60ACFBCB4CC103146
 
 ➡️ https://uxplanet.org/the-power-of-whitespace-a1a95e45f82b
 
-### Shape
-
 ### Depth
 
+➡️ https://m3.material.io/styles/elevation/overview
+
 ### Icons
+
+➡️ https://www.designsystems.com/iconography-guide/
 
 ### Illustrations
 
@@ -214,28 +216,21 @@ http://library.lol/main/AE8F09C91D5E4F01CE23AE5BC879925F
 
 - Admin
 - Defaults
-- Plugins (Elelentor)
+- Plugins (Elementor)
 - Themes
 - DIY
 
-### Javascript
-
-- Frameworks
-  -- React + Next
-  -- Vue + Nuxt
-  -- Svelte + Sveltekit
-
-## Design systems
-
-➡️ https://designstrategy.guide/design-management/the-ultimate-design-systems-resources-list/
-
-## Creative coding
+### Javascript / creative coding
 
 📚 Generative Design: Visualize, Program, and Create with JavaScript in p5.js
 http://library.lol/main/63B5587A0CD8FD7D67301E491580D049
 
 📚 Getting Started with p5.js: Making Interactive Graphics in JavaScript and Processing
 http://library.lol/main/45DBC46659C6DB3950B2EF55C50F868C
+
+## Design systems
+
+➡️ https://designstrategy.guide/design-management/the-ultimate-design-systems-resources-list/
 
 ## Data visualization
 
@@ -352,6 +347,10 @@ Adjust to changes
 - Backends
 - Data science and AI
 - Devops
+- Frameworks
+  - React + Next
+  - Vue + Nuxt
+  - Svelte + Sveltekit
 
 # Addendum
 
