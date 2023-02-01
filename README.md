@@ -220,7 +220,6 @@ http://library.lol/main/AE8F09C91D5E4F01CE23AE5BC879925F
 
 ### Javascript
 
-- Creative coding
 - Frameworks
   -- React + Next
   -- Vue + Nuxt
@@ -230,15 +229,27 @@ http://library.lol/main/AE8F09C91D5E4F01CE23AE5BC879925F
 
 ➡️ https://designstrategy.guide/design-management/the-ultimate-design-systems-resources-list/
 
+## Creative coding
+
+📚 Generative Design: Visualize, Program, and Create with JavaScript in p5.js
+http://library.lol/main/63B5587A0CD8FD7D67301E491580D049
+
+📚 Getting Started with p5.js: Making Interactive Graphics in JavaScript and Processing
+http://library.lol/main/45DBC46659C6DB3950B2EF55C50F868C
+
 ## Data visualization
 
-📚 Dear data http://library.lol/main/E559A76BD940A881BC688D927B78E440
+📚 Dear Data http://library.lol/main/E559A76BD940A881BC688D927B78E440
 
 📚 Data Visualization Made Simple: Insights Into Becoming Visual http://library.lol/main/82EC8F07F7AB9F884C9FBE2CF6E5F022
 
-📚 Information is Beatutiful (David McCandless) http://library.lol/main/24E5A414AA3DC394EF188A1ACBDA7647
+📚 Information is Beautiful (David McCandless) http://library.lol/main/24E5A414AA3DC394EF188A1ACBDA7647
 
 🧔🏻 https://edesign-erasmus.github.io/en/graphics/infographics/working-with-data.html
+
+🧑🏻‍🦲 https://kristjanjansen.github.io/dataviz/
+
+🧑🏻‍🦲 https://github.com/kristjanjansen/dataviz
 
 # Other
 
