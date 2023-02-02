@@ -10,7 +10,7 @@
 
 🧔🏻 https://edesign-erasmus.github.io/en/design
 
-# Background / Basics
+# 1. Background / Basics
 
 ## Seeing design
 
@@ -56,15 +56,43 @@ http://library.lol/main/8A87A2320385B9DFE46CA401E840C143
 
 ### Vector graphics / Iconography
 
+.
+
 ### Image
+
+.
 
 ### Video
 
+.
+
 ### Motion
+
+.
 
 ## Branding
 
 📚 Designing Brand Identity: An Essential Guide for the Whole Branding Team http://library.lol/main/2E94F5A44E23BCC0BF22B1D8BF4BD9C6
+
+---
+
+---
+
+---
+
+---
+
+---
+
+![](diagram1.png)
+
+# Service design
+
+📚 Service Design http://library.lol/main/DBC404E0E59FEF3F0FE035A830BE5E42
+
+# CX
+
+➡️ https://thinkersco.com/community/blog-en/sd-cx-ux-ui-ixd-and-their-differences/
 
 # UX
 
@@ -83,17 +111,9 @@ http://library.lol/main/8D84BCDAC414A16161C175BCF664A0EB
 
 👩‍🏫 https://www.learnui.design/courses/learn-ux-design.html
 
-## Service design
-
-📚 Service Design http://library.lol/main/DBC404E0E59FEF3F0FE035A830BE5E42
-
 ## UX research
 
 📚 Just Enough Research http://library.lol/main/F6D2E2B0E4EE634CA8179639B544107E
-
-- Reports (?)
-- Personas
-- Journey maps
 
 ## Information architecture
 
@@ -101,9 +121,15 @@ http://library.lol/main/8D84BCDAC414A16161C175BCF664A0EB
 
 ## User flows
 
+.
+
 ## Lo-fi prototyping
 
+.
+
 ## Patterns
+
+.
 
 ### Dark patterns
 
@@ -154,9 +180,15 @@ http://library.lol/main/652AEA035033E1D60ACFBCB4CC103146
 
 ### Image
 
+.
+
 ### Video
 
+.
+
 ### Motion
+
+.
 
 ### Text / Translations / Tone of voice
 
@@ -166,7 +198,11 @@ http://library.lol/main/652AEA035033E1D60ACFBCB4CC103146
 
 ### Responsive design
 
+.
+
 ### Interactions
+
+.
 
 ### Microinteractions
 
@@ -191,6 +227,16 @@ http://library.lol/main/C56C86E9785E894F3265C7F99ABB3275
 ➡️ https://www.sandrabydesign.com/blog/the-inclusive-design-reading-list
 
 ➡️ https://humanebydesign.com
+
+---
+
+---
+
+---
+
+---
+
+---
 
 # Frontend
 
@@ -265,6 +311,8 @@ http://library.lol/main/45DBC46659C6DB3950B2EF55C50F868C
 
 ### Wearables
 
+.
+
 ### Large screens / kiosks
 
 ➡️ https://construkt.eu/accessible-kiosk-design/
@@ -275,19 +323,35 @@ http://library.lol/main/45DBC46659C6DB3950B2EF55C50F868C
 
 ### Voice UIs
 
+.
+
 ### VR / AR / Metaverse
+
+.
 
 ### Web3 / NFT
 
-## Prep for work / Presentations
+.
+
+---
+
+---
+
+---
+
+---
+
+---
+
+# Prep for work / Presentations
 
 - Presentations https://abookapart.com/products/demystifying-public-speaking
 - Portfolio
 - Job market
 
-## Soft skills
+# Soft skills
 
-### Communication
+## Communication
 
 ### Why/how laddering
 
@@ -301,6 +365,8 @@ http://library.lol/main/45DBC46659C6DB3950B2EF55C50F868C
 - Control your body language
 
 ### Receiving critique
+
+.
 
 ### Self-awareness
 
@@ -347,6 +413,16 @@ Adjust to changes
 - Reverse engineer / desconstruct
 - Copy work
 - Reflection
+
+---
+
+---
+
+---
+
+---
+
+---
 
 # Out of scope
 
