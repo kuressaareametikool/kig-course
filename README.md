@@ -76,14 +76,6 @@ http://library.lol/main/8A87A2320385B9DFE46CA401E840C143
 
 ---
 
----
-
----
-
----
-
----
-
 ![](diagram1.png)
 
 # Service design
@@ -230,14 +222,6 @@ http://library.lol/main/C56C86E9785E894F3265C7F99ABB3275
 
 ---
 
----
-
----
-
----
-
----
-
 # Frontend
 
 ## No-code / lo-code
@@ -335,14 +319,6 @@ http://library.lol/main/45DBC46659C6DB3950B2EF55C50F868C
 
 ---
 
----
-
----
-
----
-
----
-
 # Prep for work / Presentations
 
 - Presentations https://abookapart.com/products/demystifying-public-speaking
@@ -413,14 +389,6 @@ Adjust to changes
 - Reverse engineer / desconstruct
 - Copy work
 - Reflection
-
----
-
----
-
----
-
----
 
 ---
 
