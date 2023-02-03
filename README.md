@@ -207,7 +207,7 @@ http://library.lol/main/E436AE9F281001CAC2DB71F36332C54E
 
 <kbd>Help to pick a better one</kbd>
 
-📚 A Web for Everyone
+📚 A Web for Everyone - parem Goodreads hinnang. Iris
 http://library.lol/main/C56C86E9785E894F3265C7F99ABB3275
 
 📚 Accessibility for Everyone http://library.lol/main/0396BD318253ED659989FF0A9B61342C
@@ -304,6 +304,7 @@ http://library.lol/main/45DBC46659C6DB3950B2EF55C50F868C
 ### Spatial installations / exhibitions
 
 📚 **IRIS ;)** Interactive architecture adaptive world http://library.lol/main/45E49DB93E41E9C317FFD4D9CEFF5443
+Iris püüab end sellest läbi närida. 
 
 ### Voice UIs
 
